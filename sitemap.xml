@@ -2,13 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/categories/april/</loc>
+    <lastmod>2026-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2026-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/test/</loc>
+    <lastmod>2026-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2026-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-09-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/posts/20260812/</loc>
     <lastmod>2026-08-12T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2026-08-12T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>/</loc>
+    <loc>/categories/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2026-08-12T00:00:00+08:00</lastmod>
   </url><url>
     <loc>/posts/20260804/</loc>
@@ -20,13 +32,8 @@
     <loc>/posts/20260802/</loc>
     <lastmod>2026-08-02T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>/posts/20260801/</loc>
-    <lastmod>2026-08-01T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>/posts/20260702/</loc>
     <lastmod>2026-07-02T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url><url>
